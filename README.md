@@ -1,18 +1,18 @@
 # Synthetic-Basis-Premium-Model
 Estimate fair market basis premiums where direct market pricing is unavailable, or unreliable.
 
-# Technologies
+## Technologies
 Excel\
 Statistical analysis
 
-# Methodology
+## Methodology
 Liquidity comparison\
 Historical premium relationships\
 Seasonal decomposition\
 Comparable market analysis
 
 
-# Skills Demonstrated
+## Skills Demonstrated
 Financial modeling\
 Statistical analysis\
 Market valuation
